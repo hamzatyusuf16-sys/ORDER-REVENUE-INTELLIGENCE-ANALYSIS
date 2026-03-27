@@ -1,5 +1,7 @@
 # ORDER-REVENUE-INTELLIGENCE-ANALYSIS
 This project presents an interactive Tableau dashboard designed to analyze revenue performance, customer behavior, and pricing effectiveness.  The goal is to uncover key business insights that can support better decision-making in sales, marketing, and operations.
+Image 1: Main dashboard view with all charts.  
+Image 2: Dataset data source screenshot showing the underlying data used in the analysis.  
  OBJECTIVES
 - Analyze revenue trends over time
 - Identify high-performing regions and states
